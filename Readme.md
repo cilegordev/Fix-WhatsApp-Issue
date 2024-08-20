@@ -16,5 +16,5 @@
 Redmi 8A Pro - Android 13
 
 # Credits
-blog.tan.my.id by Tanio <br>
+https://blog.tan.my.id by Tanio <br>
 [Sumber informasi selengkapnya](https://blog.tan.my.id/posts/need-official/)
